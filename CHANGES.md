@@ -6,6 +6,9 @@ section: main
 
 ### Next release
 
+### v3.1.8 2019-01-09
+- Working release of 3.1.7, forgot the dist files in previous release.
+
 ### v3.1.7 2019-01-09
 - Replaced usage of deprecated Buffer constructor (see: [#506](https://github.com/Stuk/jszip/pull/506))
 
