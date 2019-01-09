@@ -1,6 +1,10 @@
-# JSZip
+# JSZip2
 
-[![Build Status](https://api.travis-ci.org/DigiExam/jszip2.svg?branch=master)](http://travis-ci.org/DigiExam/jszip2)
+[![npm](https://img.shields.io/npm/dw/jszip2.svg)](https://npmjs.com/package/jszip2)
+[![NpmVersion](https://img.shields.io/npm/v/jszip2.svg)](https://npmjs.com/package/jszip2)
+[![NpmLicense](https://img.shields.io/npm/l/jszip2.svg)](https://npmjs.com/package/jszip2)
+[![Travis (.org) branch](https://img.shields.io/travis/DigiExam/jszip2/master.svg?logo=travis)](https://travis-ci.org/DigiExam/jszip2)
+
 =====
 
 
