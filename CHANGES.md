@@ -5,7 +5,9 @@ section: main
 ---
 
 ### Next release
-- Replaced usage of deprecated Buffer constructor
+
+### v3.1.7 2019-01-09
+- Replaced usage of deprecated Buffer constructor (see: [#506](https://github.com/Stuk/jszip/pull/506))
 
 ### v3.1.6 2019-01-09
 - Initial release of jszip2, no changes from v3.1.5
