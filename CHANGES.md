@@ -4,6 +4,9 @@ layout: default
 section: main
 ---
 
+### Next release
+- Replaced usage of deprecated Buffer constructor
+
 ### v3.1.6 2019-01-09
 - Initial release of jszip2, no changes from v3.1.5
 
