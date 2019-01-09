@@ -1,8 +1,8 @@
 {
-  "name": "jszip",
-  "version": "3.1.5",
-  "author": "Stuart Knightley <stuart@stuartk.com>",
-  "description": "Create, read and edit .zip files with JavaScript http://stuartk.com/jszip",
+  "name": "jszip2",
+  "version": "3.1.6",
+  "author": "Robin Andersson <robin.andersson@digiexam.com>",
+  "description": "Create, read and edit .zip files with JavaScript. Semi-maintained version of package jszip",
   "scripts": {
     "test": "npm run test-node && npm run test-browser",
     "test-node": "qunit-cli -c test/helpers/test-utils.js test/helpers/node-test-utils.js test/asserts/*.js",
@@ -10,6 +10,9 @@
     "lint": "grunt jshint"
   },
   "contributors": [
+    {
+      "name": "Stuart Knightley"
+    },
     {
       "name": "Franz Buchinger"
     },
@@ -29,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stuk/jszip.git"
+    "url": "https://github.com/DigiExam/jszip2.git"
   },
   "keywords": [
     "zip",

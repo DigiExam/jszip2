@@ -1,7 +1,10 @@
-JSZip [![Build Status](https://api.travis-ci.org/Stuk/jszip.svg?branch=master)](http://travis-ci.org/Stuk/jszip) [![Code Climate](https://codeclimate.com/github/Stuk/jszip/badges/gpa.svg)](https://codeclimate.com/github/Stuk/jszip)
+# JSZip
+
+[![Build Status](https://api.travis-ci.org/DigiExam/jszip2.svg?branch=master)](http://travis-ci.org/DigiExam/jszip2)
 =====
 
-[![Selenium Test Status](https://saucelabs.com/browser-matrix/jszip.svg)](https://saucelabs.com/u/jszip)
+
+Semi-maintained version of: https://github.com/Stuk/jszip
 
 A library for creating, reading and editing .zip files with JavaScript, with a
 lovely and simple API.
@@ -33,3 +36,5 @@ License
 
 JSZip is dual-licensed. You may use it under the MIT license *or* the GPLv3
 license. See [LICENSE.markdown](LICENSE.markdown).
+
+Original author: Stuart Knightley
