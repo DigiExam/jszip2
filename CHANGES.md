@@ -4,6 +4,9 @@ layout: default
 section: main
 ---
 
+### v3.1.6 2019-01-09
+- Initial release of jszip2, no changes from v3.1.5
+
 ### v3.1.5 2017-11-09
 - Fix IE11 memory leak (see [#429](https://github.com/Stuk/jszip/pull/429)).
 - Handle 2 nodejs deprecations (see [#459](https://github.com/Stuk/jszip/pull/459)).
