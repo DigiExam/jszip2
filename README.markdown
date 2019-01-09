@@ -13,7 +13,15 @@ Semi-maintained version of: https://github.com/Stuk/jszip
 A library for creating, reading and editing .zip files with JavaScript, with a
 lovely and simple API.
 
+## Documentation
+
 See https://stuk.github.io/jszip for all the documentation.
+
+## Change log
+
+See [CHANGES.md](CHANGES.md)
+
+## Example usage
 
 ```javascript
 var zip = new JSZip();
@@ -35,8 +43,8 @@ images/
     smile.gif
 */
 ```
-License
--------
+
+## License
 
 JSZip is dual-licensed. You may use it under the MIT license *or* the GPLv3
 license. See [LICENSE.markdown](LICENSE.markdown).
